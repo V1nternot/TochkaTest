@@ -1,0 +1,11 @@
+C:\Users\Vinter\source\repos\test\test\bin\Debug\netcoreapp2.0\Tochka.Test.Parshin.deps.json
+C:\Users\Vinter\source\repos\test\test\bin\Debug\netcoreapp2.0\Tochka.Test.Parshin.runtimeconfig.json
+C:\Users\Vinter\source\repos\test\test\bin\Debug\netcoreapp2.0\Tochka.Test.Parshin.runtimeconfig.dev.json
+C:\Users\Vinter\source\repos\test\test\bin\Debug\netcoreapp2.0\Tochka.Test.Parshin.dll
+C:\Users\Vinter\source\repos\test\test\bin\Debug\netcoreapp2.0\Tochka.Test.Parshin.pdb
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.csprojResolveAssemblyReference.cache
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.csproj.CoreCompileInputs.cache
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.AssemblyInfoInputs.cache
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.AssemblyInfo.cs
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.dll
+C:\Users\Vinter\source\repos\test\test\obj\Debug\netcoreapp2.0\Tochka.Test.Parshin.pdb
